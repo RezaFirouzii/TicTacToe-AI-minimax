@@ -1,3 +1,6 @@
+# this is how AI chooses the best move
+# everytime after the board is changed
+
 from sys import maxsize as MAX
 
 MAX_SCORE = 10
